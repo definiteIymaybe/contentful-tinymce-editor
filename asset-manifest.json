@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/contentful-tinymce-editor/static/css/main.00ceed79.chunk.css",
-    "main.js": "/contentful-tinymce-editor/static/js/main.2bb2eb00.chunk.js",
-    "main.js.map": "/contentful-tinymce-editor/static/js/main.2bb2eb00.chunk.js.map",
+    "main.js": "/contentful-tinymce-editor/static/js/main.b4ca1aa8.chunk.js",
+    "main.js.map": "/contentful-tinymce-editor/static/js/main.b4ca1aa8.chunk.js.map",
     "runtime-main.js": "/contentful-tinymce-editor/static/js/runtime-main.3d911316.js",
     "runtime-main.js.map": "/contentful-tinymce-editor/static/js/runtime-main.3d911316.js.map",
     "static/css/2.107367f1.chunk.css": "/contentful-tinymce-editor/static/css/2.107367f1.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.107367f1.chunk.css",
     "static/js/2.249488c0.chunk.js",
     "static/css/main.00ceed79.chunk.css",
-    "static/js/main.2bb2eb00.chunk.js"
+    "static/js/main.b4ca1aa8.chunk.js"
   ]
 }
